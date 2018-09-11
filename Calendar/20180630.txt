@@ -1,0 +1,9 @@
+
+## Done
+* [x] Upgrade Pi 3+
+* [x] Work on writing.frankmcpherson.net 
+
+## Scheduled
+* [>] Edit NotePlan blog posts >2018-07-01
+* [>] Upgrade Mint box >2018-07-01
+* [>] Edit theology blog post >2018-07-01

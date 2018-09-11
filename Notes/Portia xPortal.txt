@@ -1,0 +1,30 @@
+# Portia xPortal
+#tasks #project
+* [>] Research F5 APM for use with Portia xPortal >2018-06-25
+* [>] Follow up with Roger/SS&C regarding meeting to discuss ADFS >2018-06-26
+* [>] Work on xPortal authentication sequence diagram >2018-06-27
+* [>] Work on xPortal authentication sequence diagram >2018-07-02
+* [>] Read APM documentation and update diagram  >2018-07-03
+* [>] Follow up on email to Sachin regarding understanding of F5 APM SSO >2018-06-28
+* [>] Get back up to speed with xPortal >2018-07-10
+* [>] Edit sequence diagram based on info provided by Sachin >2018-07-10
+* [>] Schedule sequence diagram review >2018-07-10
+* [>] Ping Roger about meeting with Oracle >2018-07-16
+* [>] Watch F5 APM videos >2018-07-16
+* [>] Meeting with Oracle, F5, and us to finalize high level design >2018-07-25
+* [x] Can F5 provide a directory (see local user database in APM SSO guide) for an interim solution?
+* [>] Send email to Sachin asking about F5 local user database option >2018-08-13I
+* [x] Identify alternative solution
+* [x] Discuss alternatives and recommendation with Peter Farr
+* [x] Discuss status with Wendy 
+* [>] Get info about actimize & authentify from Milind >2018-08-29
+* [>] Ask Dena to set up meeting with SS&C >2018-08-27
+* [>] Follow up with Dena about SS&C meeting  >2018-08-29
+* Authentication broker estimate
+* [>] Set up call with Security to discuss ADFS option for Portal authentication >2018-08-21
+* ADFS estimate
+
+## Notes
+@2018-06-26: Sent email to Sachin asking to confirm my understanding of the F5 APM SSO guide. 
+@2018-07-02: Created draft sequence diagram and distributed for review. 
+@2018-08-13: Response to email from Sachin, expiring/changing passwords will be a challenge

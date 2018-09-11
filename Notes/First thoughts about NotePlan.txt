@@ -1,0 +1,8 @@
+First thoughts about NotePlan
+Like the clean, minimalist display. 
+Like that I can link to calendar notes like: @2018-05-05 but wish it was easier to come back. Still trying to figure it out. 
+To move a task item need to hide the keyboard 
+I wish that NotePlan worked like a wiki for linking rather than just markdown. Often the keyboard activates and therefore the links don’t work. 
+Not an Outliner, so when you move a parent of an indented item the child does not move 
+Enabled appending links to scheduled tasks. 
+

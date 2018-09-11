@@ -1,0 +1,2 @@
+* [-] Edit post about NotePlan [[Blog]]
+* [x] Edit post about managing personal projects with Noteplan [[Blog]]

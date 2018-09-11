@@ -1,0 +1,12 @@
+
+## Cancelled
+* [-] Oversee implementation, testing, and troubleshooting of SWIFT Sanctions Screening Token Access [[SWIFT Sanctions Screening]] <2018-07-11
+
+## Done
+* [x] Migrate pc to DXC 
+1. [x] Follow up  on action items that I captured during Guernsey workshop [[Action Items from Guernsey Workshop June 4-6, 2018]]
+
+## Scheduled
+* [>] Work on new profile #personal >2018-07-13
+* [>] Take Spartans class >2018-07-13
+* [>] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]] >2018-07-13

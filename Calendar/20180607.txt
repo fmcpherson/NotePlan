@@ -1,0 +1,12 @@
+* [>] [[BNTB DLP]] >2018-06-08
+* [>] Oversee [[SWIFT Sanctions Screening]] >2018-06-08
+* [>] Take Spartans class >2018-06-11
+* [>] Memory management Citrix and VMWare  >2018-06-08
+* [>] Research authentication broker solution in WWS >2018-06-08
+* [>] Install Visio >2018-06-08
+* [>] [[Action Items from Guernsey Workshop June 4-6, 2018]]  >2018-06-08
+	* [x] Plan AppSense demo and discussion with Ivanti
+* [>] Record experience with NotePlan [[First thoughts about NotePlan]] >2018-06-08
+* [-] Edit article about Fossil smart watch
+* [x] Restore Monica snapshot
+* [>] Call Bob >2018-06-08

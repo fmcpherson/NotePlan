@@ -1,0 +1,4 @@
+OneNote Wishlist
+* Default setting in iOS app for paper styles
+* Support for iOS url schemas for deep linking
+#wishlist

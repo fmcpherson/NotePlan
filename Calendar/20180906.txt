@@ -1,0 +1,14 @@
+
+## Done
+* [x] Edit DLP work order
+* [x] Create customer facing version of DLP work order
+* [x] Follow up on firewall rule request for OBDX Dev access
+* [x] Provide available times for meeting with SS&C
+* [x] Schedule meeting with Andrew about AWS partnership and QRM app
+
+## Scheduled
+* [>] Complete a Digital Foundations training [[Training]] >2018-09-07
+* [>] Create proxy and DLP road map >2018-09-07
+* [>] Take AB advanced training >2018-09-07
+* [>] Review bookmarks in Raindrop.io >2018-09-07
+* [>] Research AWS partnership >2018-09-07

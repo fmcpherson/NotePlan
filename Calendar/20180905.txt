@@ -1,0 +1,13 @@
+
+## Done
+* [x] Research AWS partnership  >2018-09-06
+* [x] Respond to Andrew’s email regarding AWS partnership
+* [x] Digital Foundations training
+* [x] Follow up on request with Roger and Bhaskar to confirm destinations for OBDX testing from PROD VDI
+* [x] Create FRCR for PROD VDI access to OBDX testing
+* [x] Talk with Jordan and Rahim about what we need from Symantec
+
+## Scheduled
+* [>] Create proxy and DLP road map >2018-09-06
+* [>] Take AB advanced training >2018-09-06
+* [>] Review bookmarks in Raindrop.io  >2018-09-06

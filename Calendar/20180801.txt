@@ -1,0 +1,11 @@
+
+
+## Done
+* [x] Review web site vulnerabilities identified by Whitehat [[Internet Web Site Remidiation]]
+* [x] Review and edit DR contract schedule document (Schedule N)
+
+## Scheduled
+* [>] Watch Webinar about dockerizing Windows Server 2003 apps see Safari reading list >2018-08-02
+* [>] Take Spartans class >2018-08-02
+* [>] Update Monica >2018-08-02
+* [>] Try restore of Monica dB to Test server >2018-08-04

@@ -1,0 +1,26 @@
+# Action Items from Guernsey Workshop June 4-6, 2018
+## TL;DR 
+The bank held a workshop in Guernsey June 4 thru 6, 2018 on End User computing topics, and I attended by teleconference. The main topics where: GAL Sync between Canada and Europe Exchange environments (in progress), future plans for VDI, and future plans for Active Directory and Exchange. The bank intends to develop and implement a Windows 10 VDI with Office 2016, IE11 and appropriate apps, built in a consistent manner in the two VDI environments. The bank intends to move user accounts to the GTROOT domain that is in Europe, keeping servers, PCs, and VDIs in their current domains (PROD in Canada, GTROOT in Europe)
+## Attendees
+* Wendy McLeod
+* Andrew Woodworth
+* Richard McDermott
+* Marcel Le Cras
+* Warren McLean (dial-in)
+* Ryan Walrond (dial-in)
+* Frank McPherson (dial-in)
+## Follow Up Items
+Below are follow up items I captured for myself during the course of the workshop.
+1. [>] Follow up on action items that I captured during Guernsey workshop >2018-07-12
+2. Need a shared support RASIC for Active Directory and Exchange
+2. Bank sending NSSR for AD and Exchange design changes, and expects Elyaz, Andrea, and DeDe to be assigned to it
+3. Need a decision tree to guide the process for determine whether to add software to the VDI image or to host in XenApp
+4. Align anti-virus tool across the group (Canada uses McAfee and Guernsey uses Trend Micro). 
+5. Follow up on whether the LiquidWare Top Ten performance reports are being sent to Andrew (**Sent email to Rama, Javed and Mark on 6/8.**)
+6. Based on experience with troubleshooting the recent Citrix performance problems, do we want to swap Liquidware with another tool? Do we need to train someone on our account on using Liquidware? (**Citrix MAS is the tool that we used to capture the network performance to the end points. In process of getting new temporary license.**)
+7. Why are we hosting URLs in XenApp? (**Answer: For IE 11 with legacy image. Asked for list of shortcuts. Received list from Javed **)
+8. Bank plans to test Windows thin clients and configuring some for direct browser access to Flexcube rather than using VDI. Some users ONLY need Flexcube and therefore could live with just a browser. Discussed replacing and updating thin clients. **Requirement for SWIFT Sanctions Token may dictate switching to Windows TCs because we have not been successful at getting the token to work with Linux TCs.**  
+9. Discuss opening firewall rules between the Canada and Guernsey data centers to make intra data center region implements easier 
+10. Set up meeting with AppSense and the bank to discuss functionality. Noted that AppSense needs to be implemented in Guernsey, and if they do bank wants it to be implemented consistently **(Pam @ Ivanti sent WebEx for June 14. Sent email to bank letting them know about the plan. COMPLETE)**
+11. Ryan going to Guernsey June 25 during Sevice Now workshop for further work on VDI
+#followup #meetings #project

@@ -1,0 +1,16 @@
+
+## Done
+	- [x] Start work on active digital opportunities at BNTB [[This Week At Work]]
+	- [x] Confirm with Doug on who is owning external web site F5 change from our side [[This Week At Work]]
+	- [x] Review email for info about status on F5 change [[This Week At Work]] <2018-09-10
+* [x] Take digital foundations classes
+* [x] Request status on OBDX access
+
+## Scheduled
+* [>] [[This Week At Work]] >2018-09-12
+	- [>] Read ADFS SAML documentation [[This Week At Work]] >2018-09-12
+* [>] Complete a Digital Foundations training [[Training]] >2018-09-12
+* [>] Take AB advanced training >2018-09-12
+* [>] Research AWS partnership >2018-09-12
+* [>] Take Spartans class >2018-09-12
+* [>] Review bookmarks in Raindrop.io >2018-09-15

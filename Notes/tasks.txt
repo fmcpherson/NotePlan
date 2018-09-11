@@ -1,0 +1,10 @@
+# Try These Things
+* [Mirroring 360](https://www.mirroring360.com/)
+* [RiverNews](http://rivernewsapp.com/)
+* https://help.fing.io/article-categories/fingbox/
+* https://www.taskpaper.com/
+* [OPML Editor for Mac](http://home.opml.org/#1506805469000)
+
+#tasks 
+* [micropad](https://getmicropad.com/)
+* [Rclone](https://rclone.org/)

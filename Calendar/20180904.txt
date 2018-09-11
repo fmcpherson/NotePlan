@@ -1,0 +1,8 @@
+
+## Done
+* [x] Review email follow up folder <2018-09-03
+* [x] CMP data transfer follow ups re: current BUR status, next steps
+* [x] Give Wendy heads up about Bob’s question on browser isolation
+* [x] Reply to email from Bob Rodger sent to Carolyn regarding browser isolation
+* [x] Discuss OBDX testing access with Roger and Bhaskar 
+* [x] Confirm that Tom Hetterschedit has everything he needs for the Americas CAB

@@ -1,0 +1,12 @@
+
+## Done
+* [x] Review current status of DLP components [[BNTB DLP]]
+* [x] Prep for meeting with Wendy
+* [x] Reply to Wendy’s email regarding Turbonomic
+* [x] Forward my reply to Wendy to Mark McDuff for context to meeting
+* [x] Send copy of Internet Proxy FMO diagram to Proxy project team
+
+## Scheduled
+* [>] Research DXC application security testing >2018-07-25
+* [>] Research Enterprise App Testing: ServiceNow >2018-07-25
+* [>] Update dashboard  >2018-07-25

@@ -1,0 +1,7 @@
+# GTAC
+#tasks
+* Pricing to bank for Turbonomic
+* Proof of Concept for Turbonomic
+* Find out what Certificate management services DXC provides
+* Does DXC have recommendations for thin versus zero clients
+* Print server high availability option

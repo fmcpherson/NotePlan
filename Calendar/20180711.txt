@@ -1,0 +1,13 @@
+
+## Done
+* [x] Remove HPE email access from Pixel 2 and iPad Pro 
+* [x] Update tpm firmware on PC
+* [x] Prep for Mark’s staff meeting 
+* [x] Review sequence diagram with F5 engineer 
+* [x] Review and update dashboard <2018-07-10
+
+## Scheduled
+* [>] Work on new profile #personal >2018-07-12
+* [>] Oversee implementation, testing, and troubleshooting of SWIFT Sanctions Screening Token Access [[SWIFT Sanctions Screening]] >2018-07-12
+* [>] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]] >2018-07-12
+* [>] Take Spartans class >2018-07-12

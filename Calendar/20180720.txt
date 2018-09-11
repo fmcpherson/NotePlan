@@ -1,0 +1,11 @@
+
+## Done
+* [x] Schedule port flush
+* [x] Schedule ct scan
+
+## Scheduled
+* [>] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]] >2018-07-28
+* [>] Take Spartans class >2018-07-28
+* [>] Edit [[Blog]] post >2018-07-21
+* [>] Build Raspberry Pi NES Emulator >2018-07-21
+* [>] Schedule emg  >2018-07-23

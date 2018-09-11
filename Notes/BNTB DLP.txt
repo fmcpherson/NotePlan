@@ -1,0 +1,21 @@
+# BNTB DLP
+## Action items
+* [x] Create list of DLP solution components 
+* [x] Review bom
+* [x] Request quote for bom: BOM sent to Kelly Munn on @2018-06-11
+* [x] Receive quote for Enforce DB server hardware from Kelly
+* [x] Determining pricing for Enforce DB server hardware
+* [x] Get Pricing for DLP Enforce @2018-06-14
+* [-] Edit DLP work order >2018-07-03
+* [>] Follow up on pricing for DLP Enforce >2018-06-26
+* [-] Do we have right pricing for Network monitor in Guernsey?
+* [>] Complete DLP web monitoring (sibling WO to Internet Proxy) work order >2018-07-09
+* [-] Get storage quantities for Canada and Guernsey 
+* [-] Get total daily traffic leaving the Canada and Guernsey data centers
+* [>] Ping Jordan on status of DLP cost model >2018-07-16
+* [>] Review current status of DLP components >2018-07-24
+* Create data in motion and Maas requirements summary
+* Doug complete draft of account cost model. 
+@2018-06-26: Received price quote for DLP Enforce and DLP Discover suite. 
+@2018-07-24: Reviewed cost model and mapped servers to line items. Sent to Doug, who is pulling together the work order. 
+#project

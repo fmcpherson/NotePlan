@@ -1,0 +1,13 @@
+
+## Done
+* [x] Find out when the changes needed for CMP log shipping will be executed
+* [x] Update plan with dates and socialize with the bank
+* [x] Discuss web site content vulnerability remediation options with Bob Rodger
+* [x] Remind Bob Rodger to send me list of vulernabilities
+* [x] Ask Amanda about whether she has the vulernabilities of the external web site
+
+## Scheduled
+* [>] Watch Webinar about dockerizing Windows Server 2003 apps see Safari reading list >2018-08-01
+* [>] Take Spartans class >2018-08-01
+* [>] Update Monica >2018-08-01
+* [>] Try restore of Monica dB to Test server  >2018-08-01

@@ -1,0 +1,17 @@
+
+## Done
+* [x] Ask Pam about using Skype rather than WebEx
+* [x] Plan DNS delegation testing <2018-06-12 *Corresponded with Surya and Venu to set up testing*
+* [x] Request load balancer information for fcgateway, postilionportal, and mccsoaapps urls
+* [x] Email from Romit to Maxim regarding TC USB manager settings for SWIFT token
+* [x] Follow up on Whitehat scanning firewall rules *Emails to Tuscarora Bhardwaj and Rakesh*
+
+## Scheduled
+* [>] Research F5 Reverse Proxy capability for SSO >2018-06-14
+* [>] Follow up with Greg about authentication broker pricing >2018-06-14
+* [>] Install slack on Pixel 2 >2018-06-14
+* [>] Follow up on email to Jordan and Rahim on re: DLP Enforce pricing >2018-06-14
+* [>] Follow up on request for load balancer information for fcgateway, postilionportal, and mccsoaapps urls >2018-06-14
+* [>] [[Action Items from Guernsey Workshop June 4-6, 2018]] >2018-06-14
+* [>] [[BNTB DLP]] >2018-06-14
+* [>] Oversee [[SWIFT Sanctions Screening]]  >2018-06-14

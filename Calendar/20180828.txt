@@ -1,0 +1,17 @@
+
+
+## Done
+* [x] Send cmo/FMO diagram to Wendy, Bob, and Jennifer Stubb
+* [x] Respond to email from Kelly re: DLP DB server quote (need new quote)
+* [x] Complete web site cmo/FMO diagram 
+* [x] Send cmo/FMO diagram to internal review
+* [x] Follow up on external web site server info request with Javed
+* [x] Follow up on FMO diagram with Orlando Nunez
+* [x] Follow up on F5 make/model info with Rakesh
+* [x] Cloud proxy status
+
+## Scheduled
+* [>] Review Peter’s feedback on DLP requirements >2018-08-29
+* [>] Take Spartans class >2018-08-29
+* [>] Take AB advanced training >2018-08-29
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-08-29

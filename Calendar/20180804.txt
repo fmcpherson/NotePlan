@@ -1,0 +1,8 @@
+
+## Cancelled
+* [-] Try restore of Monica dB to Test server <2018-08-01
+
+## Done
+* [x] Replace furnace air filters
+* [x] Get hair cut
+* [x] Get anniversary card

@@ -1,0 +1,12 @@
+
+## Done
+* [x] Work on xPortal authentication sequence diagram [[Portia xPortal]]
+* [x] Oversee implementation, testing, and troubleshooting of SWIFT Sanctions Screening Token Access [[SWIFT Sanctions Screening]]
+* [x] Create diagram for F5 sso
+* [x] Create diagram for environment management 
+* [x] Provide Lisa with info about app operation filters for WSS solution 
+
+## Scheduled
+* [>] Take Spartans class >2018-06-29
+* [>] Edit DLP work order [[BNTB DLP]] >2018-06-28
+* [>] Contact Tom Hetterscheidt regarding Virtual Clarity (See path to hybrid email) >2018-06-28

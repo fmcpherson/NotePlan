@@ -1,0 +1,1 @@
+* [>] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]] >2018-07-20

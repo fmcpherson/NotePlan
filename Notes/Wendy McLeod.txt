@@ -1,0 +1,10 @@
+# Wendy McLeod
+* [x] Facilitate review of the current state of storage >2018-07-10
+* Ask about interest with application security scans, her interest or punt to a Bob?
+* Simplify access to OBDX development environment
+* [>] Follow up with Bhaskar and Roger on Oracle access to model office >2018-08-29
+
+@2018-07-03: Sent email to Pintu Das asking if he received response from Wendy to the email written by Angelo over the weekend.
+@2018-07-09: Scheduled meeting with Mark for 7/10 to catch up.
+@2018-07-10: Met with Bosco, reclaimed 4TB so now up to 7TB available. Plan to review at Thursday tech forum. Propose buying 8 disks to balance the cage 
+#tasks #people 

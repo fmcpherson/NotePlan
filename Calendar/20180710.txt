@@ -1,0 +1,16 @@
+
+## Done
+* [x] Schedule sequence diagram review [[Portia xPortal]]
+* [x] Edit sequence diagram based on info provided by Sachin [[Portia xPortal]]
+* [x] Get back up to speed with xPortal [[Portia xPortal]]
+* [x] Review Turbonomics information <2018-07-09
+* [x] Send an email to Rick, Ryan and Andrew about Turbonomics discussion and demo
+* [x] Green circle sign up for Turbonomics information 
+* [x] Facilitate review of the current state of storage [[Wendy McLeod]]
+* [x] Update goals in Workday with sold items (WSS, DMZ design, and Countercept)
+* [x] Read last chapter of Simplicity 
+
+## Scheduled
+* [>] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]] >2018-07-11
+* [>] Review and update dashboard  >2018-07-11
+* [>] Work on new profile >2018-07-11

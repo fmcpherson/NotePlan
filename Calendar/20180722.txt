@@ -1,0 +1,10 @@
+
+
+## Done
+* [x] Beer run (Barrel Runner and Saugatuk Blueberry shandy)
+
+## Scheduled
+* [>] [The Weekly List – This Is How Democracy Ends](https://theweeklylist.org/) Add to rss subscriptions >2018-07-23
+* [>] Edit [[Blog]] post >2018-07-29
+* [>] Build Raspberry Pi NES Emulator >2018-07-29
+* [>] Pick up prescription refill >2018-07-23

@@ -1,0 +1,23 @@
+# This Week At Work
+
+#tasks
+* Follow up on status of F5 change for external web site
+	- [>] Review email for info about status on F5 change >2018-09-10
+	- [>] Confirm with Doug on who is owning this from our side >2018-09-11
+	- F5 engineer assigned
+	- Solution approach and estimate 
+- Complete phase 2 NSSR work order
+	- [>] Send draft work order to Dominique and Bob >2018-09-10
+- Follow up on status of OBDX web access from PROD VDI
+	- URL access to OBDX model office from PROD VDI (bypass proxy)
+- CMP Log shipping firewall rules: test and prepare for weekend change
+	- [x] Jaime submitting firewall rule request - request submitted on 9/10
+	- Test firewall rule
+- Continue work on Portia portal authentication solution
+	- [>] Meet with SS&C to discuss access options >2018-09-10
+	- [>] Read ADFS SAML documentation >2018-09-11
+	- Meet with ADFS people to determine approach
+	- Meet with Auth Broker people to determine approach
+- Gain understanding of what the company considers to be digital
+	- [>] Obtain list of digital offerings >2018-09-10
+	- [>] Start work on active digital opportunities at BNTB  >2018-09-11

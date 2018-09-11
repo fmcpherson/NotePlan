@@ -1,0 +1,10 @@
+# Low Cost Storage Proposal
+Idea: Rather than purchase additional high-cost SSD, consider purchasing and installing lower-cost magnetic storage to be used for use cases that don’t require high performing storage.
+* [>] Brainstorm list of existing data types that could be moved to magnetic storage >2018-07-10
+* Identify existing storage that could be moved to magnetic storage
+* Determine how much magnetic storage will be needed for current use and growth
+* Create draft of storage capacity proposal
+
+## Notes
+Refer to email from Angelo sent on 6/30 regarding options for storage migration
+#project

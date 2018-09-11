@@ -1,0 +1,25 @@
+# SWIFT Sanctions Screening
+* [x] Plan change to build XenApp server and install token software [[2018-05-15]]
+* [x] Execute change starting at [[2018-05-17]] (See email from Pavan Sastry on May 15
+	* [x] Build new VM with 2 vCPU and 4 GB RAM
+	* [x] Wintel team to install the token software on the VM, Jared to assist
+	* [x] Publish IE11, name the icon SWIFT Sanctions Screening
+	* [x] Test access to USB token: will need a customer who has a token to do the token set up
+Tested published app with Warren and his VDI could not access the usb drive. Need to determine why.
+* Determine why gold VDI cannot access usb
+* [>] Oversee implementation, testing, and troubleshooting of SWIFT Sanctions Screening Token Access >2018-07-11
+@2018-05-21: Troubleshooting using Bermuda thin client found redirection is happening and that the USB drive is being recognized, but the access to the drive is disabled. Need an AD policy enabled to provide access. Also participated in a meeting to discuss work order for an NSSR to do the bank end sanctions screening work and there appears to be a disconnect.
+@2018-06-05 - No change in status while on vacation. Bank setting up PC for access to meet date. 
+@2018-06-07 - More testing done today with thin client but still not working. I suggested testing with t520 and asked about firmware
+@2018-06-08 - Looks like thinpro May be an issue. Sent email to Andrew 
+@2018-06-13 - Email from Romit to Maxim regarding TC USB manager settings
+@2018-06-15 - Engaged Citrix with troubleshooting along with Maxim and team. Made registry change to allow SmartCards and another to Enable Force Restart For HID. Result in virtual desktop seeing the token. Now testing with authentication and having problems with Internet proxy. Phone conference call with Daniel Nacif @ SWIFT re: ticket 11114261. We will be providing a number of screen shots for his analysis.
+@2018-06-18 — Email from SWIFT after info we provided saying token access not tested with Java 8, update 171. App checker indicates compatibility with Jave 8 and newer. No info on the compatible version.
+@2018-06-19 - Successful test accessing and authentication with the token using VDI + Citrix Receiver on a fat client. Test with VDI + Citrix Receiver and thin client shows the token being recognized and the user presented with a token password. User enters credentials that are accepted, but when Java starts the token is no longer recognized when the user attempts to enter the SWIFT sanctions web site.
+@2018-06-21: SWIFT suggesting trying 32 bit version of IE and/or downgrade Java. SWIFT also suspects the thin client being used may not support the token software. More testing tomorrow.
+@2018-06-22: Popplegard recommended installing usb support package for version 13.3 of the Citrix Receiver for Linux. Tried to assist Romit & Maxim et.all to install the package but was not successful. Suspect it is because we are installing a portion of the Citrix software that is not consistent with the other, older versions on the thin client. We captured screen shots and write up the steps followed to be included in the ticket we opened with HP. I sent an email to Maxim, Warren, and Andrew asking if Maxim could upgrade a T520 to ThinPro 6.1 that has version 13.3 of the Citrix Receiver.
+@2018-06-26: Maxim upgraded t520 to ThinPro 6.1 and 6.2 and neither worked. Romit working with HPE to troubleshoot. When I left call they were trying to install CUPS drivers.
+@2018-06-27: Obtained Citrix ticket number from Romit and forwarded to bank and Thomas Poppleguard. Update from Romit. Executed Warren’s request for new OU and not inherit policies to filter out any policy settings that may block. Still not successful. Captured log files to send to to the ticket opened with Citrix. 
+@2018-06-28: Troubleshooting call with Citrix. Captured log files and other information that Romit added to ticket opened with Citrix.
+@2018-07-11: HP still waiting for token in order to do troubleshooting 
+#project

@@ -1,0 +1,9 @@
+# Work Research
+* Citrix I/O accelerator 
+* Get more information about Enterprise Apps Testing
+* Get more information about Apps Security on Demand
+* Learn more about DXC and AWS partnership
+* [>] Complete lliumio test drive by August 20 >2018-08-14
+* [>] Storage as a Service >2018-08-03
+
+#tasks 

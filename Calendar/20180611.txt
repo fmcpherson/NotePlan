@@ -1,0 +1,21 @@
+
+## Done
+* [x] Record experience with NotePlan [[First thoughts about NotePlan]]
+* [x] [Read Authentication Broker Solution Guide](https://hpe-my.sharepoint.com/:w:/p/frank_mcpherson/EViTs1bte6hAnnTFmguKtqgBPeu53u6SwIOyP-PTg8fuxA) <2018-06-08
+* [x] Research authentication broker solution in WWS <2018-06-08
+* [x] Research web SSO solutions *Added notes to xPortal Project section in OneNote*
+* [x] Send BOM for DLP Enforce to Kelly for quote 
+* [x] Request status of load balancers 
+* [x] Move my Reef OneNote notebook to my local storage
+* [x] Review Someday list
+* [x] Review email follow up folder
+
+## Scheduled
+* [>] Begin blog post about Noteplan 
+* [>] Ask Greg N to track down indicative pricing for authentication broker service
+* [>] [[Action Items from Guernsey Workshop June 4-6, 2018]] <2018-06-08
+* [>] [[BNTB DLP]] <2018-06-08
+* [>] Review DLP for web work order
+* [>] Oversee [[SWIFT Sanctions Screening]] <2018-06-08
+* [>] Plan DNS delegation testing
+* [>] Take Spartans class >2018-06-15

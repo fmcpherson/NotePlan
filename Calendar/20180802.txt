@@ -1,0 +1,12 @@
+
+## Done
+* [x] Requested more detail from Bob, spreadsheet is summary [[Internet Web Site Remidiation]]
+* [x] Ask whether change ticket is needed for service account changes [[CMP Log Shipping]]
+* [x] Respond to Kate Davies regarding SM9 access to gtroot
+* [x] Talk with Lisa about DLP requirements summary
+* [x] Read storage as a service documentation
+
+## Scheduled
+* [>] Update Monica >2018-08-03
+* [>] Take Spartans class >2018-08-03
+* [>] Watch Webinar about dockerizing Windows Server 2003 apps see Safari reading list >2018-08-03

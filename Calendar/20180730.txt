@@ -1,0 +1,16 @@
+
+## Cancelled
+* [-] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]] <2018-07-28
+
+## Done
+* [x] Review email follow up folder
+* [x] Schedule meeting with Bob Rodger to discuss external web site and F5
+* [x] Review Someday list
+* [x] Follow up on storage request for SCC SQL server
+* [x] Follow up on change ticket to enable file stream on SCC SQL server
+* [x] Review plan with Naji and Andrew, tell them will not have dates until tomorrow 
+* [x] Schedule appointment with Dr. J
+
+## Scheduled
+* [>] Take Spartans class >2018-07-31
+* [>] Watch Webinar about dockerizing Windows Server 2003 apps see Safari reading list >2018-07-31

@@ -1,0 +1,11 @@
+
+## Done
+* [x] Pick up prescription refill <2018-07-22
+* [x] [The Weekly List – This Is How Democracy Ends](https://theweeklylist.org/) Add to rss subscriptions <2018-07-22
+* [x] Review email follow up folder
+* [x] Prep for meeting with Wendy
+* [x] Schedule emg <2018-07-20
+* [x] Follow up with Turbonomic regarding POC
+* [x] Review [[Someday]] list
+* [x] Read Safenet technical design, context: SWIFT CSP access for Guernsey users
+* [x] Propose implementation of Sync Agent in Guernsey to provision Safenet tokens to Guernsey users. Short term, manual provision

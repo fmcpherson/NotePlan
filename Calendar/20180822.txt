@@ -1,0 +1,10 @@
+
+
+## Done
+* [x] Complete DXC personal security awareness training [[Training]] <2018-08-21
+
+## Scheduled
+* [>] Review Proxy Rreplacement VM requirements summary and approve >2018-08-24
+* [>] Take Spartans class >2018-08-24
+* [>] Take AB advanced training >2018-08-24
+* [>] Follow up with Roger about OBDX and Actimize integration >2018-08-24

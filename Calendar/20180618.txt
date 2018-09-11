@@ -1,0 +1,18 @@
+
+## Done
+* [x] [[BNTB DLP]] <2018-06-15
+* [x] [[Action Items from Guernsey Workshop June 4-6, 2018]]
+* [x] Oversee [[SWIFT Sanctions Screening]] <2018-06-15
+* [x] Review email follow up folder
+* [x] Review Citrix DPS
+* [x] Create [[Work Research]]
+* [x] Update work dashboard <2018-06-15
+* [x] Review [[Someday]] list
+* [x] Request Fourth of July vacation 
+
+## Scheduled
+* [>] Research F5 Reverse Proxy capability for SSO >2018-06-19
+* [>] Work on quarter innovation report >2018-06-19
+* [>] Take Spartans class >2018-06-19
+* [>] Edit post about NotePlan [[Blog]] >2018-06-19
+* [>] Workday review approval >2018-06-19

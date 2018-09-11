@@ -1,0 +1,13 @@
+
+## Done
+* [x] Create proxy and DLP road map <2018-09-06
+* [x] Schedule log shipping implementation for this weekend
+* [x] Test import of Evernote in to OneNote 
+
+## Scheduled
+* [>] Complete a Digital Foundations training [[Training]] >2018-09-10
+* [>] Take AB advanced training >2018-09-10
+* [>] Review bookmarks in Raindrop.io >2018-09-10
+* [>] Research AWS partnership >2018-09-10
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-09-10
+* [>] Take Spartans class >2018-09-10

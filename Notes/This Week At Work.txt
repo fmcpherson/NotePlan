@@ -1,0 +1,10 @@
+# # This Week At Work: 2018-09-10
+#tasks 
+- Follow up on status of F5 change for external web site
+	- [>] Review email for info about status on F5 change >2018-09-10
+- Complete phase 2 NSSR work order
+	- [>] Send draft work order to Dominique and Bob >2018-09-10
+- Follow up on status of OBDX web access from PROD VDI
+- CMP Log shipping firewall rules: test and prepare for weekend change
+- Continue work on Portia portal authentication solution
+- Gain understanding of what the company considers to be digital

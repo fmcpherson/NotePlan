@@ -1,0 +1,16 @@
+* [>] Build Google vision kit
+* [>] Record experience with NotePlan [[First thoughts about NotePlan]]
+* [>] Edit article about Fossil smart watch
+* [x] Review [[Writing Ideas]]
+* [x] Write card for mom telling her when I am visiting 
+* [x] Send text to Scott regarding visiting 
+
+* [>] Create diagram for the dev environment 
+* [x] Migrate BNTB CTO Sharepoint
+* [x] Review Citrix and VMWare documents 
+* [x] Read VMWare low latency configuration documents 
+* [>] Memory management Citrix and VMWare 
+* [>] Create list of DLP solution components
+* [>] [[BNTB DLP]]
+* [>] Oversee [[SWIFT Sanctions Screening]]
+	* [x] Sanctions Screening updates

@@ -1,0 +1,16 @@
+# Internet Web Site Remidiation
+#project #tasks
+Received email from Bob Rodger on 7/26/2018 asking whether the bank’s Internet site that is hosted on SharePoint is behind the F5, and if not, could it be put there. Found that servers are not behind the F5 and not HA. Bob has asked whether it can be moved.
+* [>] Obtain the names of the people supporting or familiar with the SharePoint hosting of the web site >2018-07-27
+* [>] Research the standard, Microsoft recommended implementation designs to see whether they involve external LB like F5 >2018-07-27
+* [x] Get input from engineering / delivery on moving the server behind the F5
+* [x] Communicate findings to Bob Rodger
+* [x] Meet with Bob to discuss issue and possible approaches @2018-07-31
+* [>] Review web site vulnerabilities identified by Whitehat >2018-08-01
+* [>] Requested more detail from Bob, spreadsheet is summary  >2018-08-02
+* [x] Receive detail about vulnerabilities 
+* [x] Identify firewall resource to consider possible solutions
+* [>] Forward vulnerabilities to F5 engineer for feedback >2018-08-07
+* [x] Determine whether Apache server can to filtering 
+* [x] Determine whether F5 can be used for filtering
+* [>] Send email to Rakesh requesting NetSRM for external web site vulnerability assistance >2018-08-13

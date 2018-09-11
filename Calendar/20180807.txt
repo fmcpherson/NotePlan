@@ -1,0 +1,10 @@
+
+## Done
+* [x] Forward vulnerabilities to F5 engineer for feedback [[Internet Web Site Remidiation]]
+* [x] Continue writing MAAS and DLP functional requirements 
+* [x] Send draft of DLP requirements summary to Bob and Lisa
+* [x] Review external web site vulernabilities report and identify potential remediation <2018-08-06
+
+## Scheduled
+* [>] Storage as a Service [[Work Research]] >2018-08-08
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-08-08

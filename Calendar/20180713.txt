@@ -1,0 +1,5 @@
+
+## Scheduled
+* [>] Work on new profile #personal >2018-07-14
+* [>] Take Spartans class >2018-07-20
+* [>] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]] >2018-07-16

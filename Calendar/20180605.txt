@@ -1,0 +1,12 @@
+* [x] Guernsey workshop - Was available at 7 AM EST but have not received dialing information. Connected at 8:30 AM
+	* [>] Review notes from the workshop
+* [>] [[BNTB DLP]]
+	* [>] Review bom
+* [>] Oversee [[SWIFT Sanctions Screening]]
+* [x] Create draft frcr for GAL sync and send to Andy Bookless
+* [x] Review Whitehat sentinel work order (note: email from Gary Brooks regarding Internet access)
+* [x] Schedule port flush
+
+* [>] Take Spartans class
+* [>] Memory management Citrix and VMWare 
+* [>] Research authentication broker solution in WWS

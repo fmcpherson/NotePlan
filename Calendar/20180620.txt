@@ -1,0 +1,19 @@
+
+
+## Cancelled
+1. [-] Follow up on action items that I captured during Guernsey workshop [[Action Items from Guernsey Workshop June 4-6, 2018]]
+
+## Done
+* [x] Get direction from GTAC on DMZ virtualization 
+* [x] Write email and send to a Wendy and Lisa regarding new direction for xPortal and SSO
+* [x] Request AD and ADFS resources to help create solution for tactical xPortal sign on
+
+## Scheduled
+* [>] Read Security Monitoring BPA document >2018-06-21
+* [>] Research F5 Reverse Proxy capability for SSO >2018-06-21
+* [>] Work on quarter innovation report >2018-06-21
+* [>] Edit DLP work order [[BNTB DLP]] >2018-06-21
+* [>] Take Spartans class >2018-06-21
+* [>] Edit post about NotePlan [[Blog]] >2018-06-21
+* [>] Upgrade Monica to version 2.3.0 >2018-06-21
+* [>] Oversee implementation, testing, and troubleshooting of SWIFT Sanctions Screening Token Access [[SWIFT Sanctions Screening]] >2018-06-21

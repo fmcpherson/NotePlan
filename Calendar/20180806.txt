@@ -1,0 +1,15 @@
+
+## Cancelled
+* [-] Watch Webinar about dockerizing Windows Server 2003 apps see Safari reading list <2018-08-03
+
+## Done
+* [x] Start DLP requirements summary
+* [x] Review email follow up folder @final-repeat
+* [x] Review [[Someday]] list @final-repeat
+* [x] Respond to Kevin Mc. regarding Airwatch max email sync settings
+
+## Scheduled
+* [>] Review external web site vulernabilities report and identify potential remediation >2018-08-07
+* [>] Take Spartans class >2018-08-13
+* [>] Storage as a Service [[Work Research]] >2018-08-07
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-08-07

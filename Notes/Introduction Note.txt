@@ -1,0 +1,48 @@
+# Introduction Note
+
+🎉 Welcome to NotePlan! 🎉
+
+NotePlan supports and extends Markdown. Make use of it to create Todos and events in your calendar. Use it also to make your note easier to read.
+
+On macOS hover the left side of a note or use the menubar to mark your Todos. On iOS you will see a toolbar above the keyboard with the same tools.
+
+## Todos (that’s a title)
+* Todos start with '* ' or '- '.
+* They can be marked as
+
+    * [x] Done (orange in calendar)
+    * [>] Scheduled (blue in calendar, will be copied for you)
+    * [-] Cancelled (not shown in your calendar)
+
+* Press `Tab/Backtab` to shift Todos as I have done above. On iOS hit the indent button in the keyboard toolbar.
+* Start titles with '# ' to separate Todos for different Projects for example.
+
+If you `schedule` a Todo through the menu on the left with the 🕘 icon, it will be automatically copied for you (you can also select multiple Todos along with a title).
+
+## More Markdown
+The minimum you should know about Markdown is described above. But here are a few more things you should know:
+
+You can make text **bold** or *italic*. Or mark them like `this` (inline code). If you add a time like @12:00 in the macOS version. It will be shown on the calendar.
+
+On macOS look for the `?` left of each note (hover the left area) to get an overview.
+
+**Lists**:
+1. One
+2. Two
+3) Three
+4) Four
+* Five
+* Six
+
+## Linking
+You can link between notes, both normal and calendar notes. Normal notes are linked with the [[Title]] and calendar notes with [[YYYY-MM-DD]], like [[2017-10-10]]. If the note does not exist, it will be created.
+
+## Tagging
+You can tag normal notes (not calendar notes) by writing #welcome for example anywhere in the note. Most convenient is to write it at the bottom. A tag filter will be created in the notes overview. You can also click or tap on the tag to activate the filter.
+
+## Help
+Write to `hello@noteplan.co` for help, ok 👌?
+
+Thanks for your time!
+
+#welcome

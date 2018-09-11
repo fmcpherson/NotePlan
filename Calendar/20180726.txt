@@ -1,0 +1,8 @@
+
+
+## Done
+* [x] Prep for meeting with Wendy @final-repeat
+
+## Scheduled
+* [>] Research Enterprise App Testing: ServiceNow >2018-07-27
+* [>] Research DXC application security testing >2018-07-27

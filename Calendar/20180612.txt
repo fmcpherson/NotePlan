@@ -1,0 +1,17 @@
+* [>] Begin blog post about Noteplan  >2018-06-14
+
+
+## Done
+* [x] Complete form for AppSense demo
+* [x] Ask Greg N to track down indicative pricing for authentication broker service
+* [x] Socialize AppSense demo info form with Rick
+* [x] Send source IP addresses for firewall rules for Whitehat scanning of OBDX model office web servers to Rakesh
+* [x] Review DLP for web work order
+* [x] Sent email to Jordan & Rahim re: DLP Enforce pricing
+
+## Scheduled
+* [>] [[Action Items from Guernsey Workshop June 4-6, 2018]] >2018-06-13
+* [>] [[BNTB DLP]] >2018-06-13
+* [>] Oversee [[SWIFT Sanctions Screening]] >2018-06-13
+* [>] Plan DNS delegation testing >2018-06-13
+* [>] Follow up with Greg about authentication broker pricing  >2018-06-13

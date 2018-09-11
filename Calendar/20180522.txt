@@ -1,0 +1,11 @@
+* [>] Build Google vision kit
+* [>] Record experience with NotePlan [[First thoughts about NotePlan]]
+* [>] Edit article about Fossil smart watch
+* [x] Mail card to mom
+* [x] Create diagram for the dev Citrix environment
+* [>] Complete diagram for the dev Citrix environment 
+* [x] Prepare for xportal presentation  
+* [>] Memory management Citrix and VMWare 
+* [>] [[BNTB DLP]]
+	* [x] Create list of DLP solution components
+* [>] Oversee [[SWIFT Sanctions Screening]]

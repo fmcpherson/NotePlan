@@ -1,0 +1,6 @@
+
+## Done
+* [x] Work on new profile #personal <2018-07-13
+* [x] Refresh CloudFront so that new profile is accessible via HTTPS
+* [x] Dinner with Ruth at Crew Brew City
+* [x] Try Ellison Brewery Tiramisu Coffee Stoue

@@ -1,0 +1,16 @@
+* [>] Update router firmware >2018-06-16
+
+
+## Done
+* [x] Begin blog post about Noteplan <2018-06-14
+* [x] Review [[Writing Ideas]]
+* [x] Install slack on Pixel 2 <2018-06-14
+
+## Scheduled
+* [>] Research F5 Reverse Proxy capability for SSO >2018-06-18
+* [>] Work on quarter innovation report >2018-06-18
+* [>] Update work dashboard >2018-06-18
+* [>] Oversee [[SWIFT Sanctions Screening]] *Troubleshooting with Citrix enabled access of token. Also discussed with SWIFT* >2018-06-18
+* [>] [[BNTB DLP]] >2018-06-18
+* [>] [[Action Items from Guernsey Workshop June 4-6, 2018]] >2018-06-22
+* [>] Take Spartans class >2018-06-18

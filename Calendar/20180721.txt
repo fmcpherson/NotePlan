@@ -1,0 +1,10 @@
+
+## Done
+* [x] Get new Google backup codes and store 
+* [x] Flip mattress topper
+* [x] Call in prescription refill
+
+## Scheduled
+* [>] [The Weekly List – This Is How Democracy Ends](https://theweeklylist.org/) Add to rss subscriptions  >2018-07-22
+* [>] Edit [[Blog]] post >2018-07-22
+* [>] Build Raspberry Pi NES Emulator >2018-07-22

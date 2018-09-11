@@ -1,0 +1,11 @@
+* [x] Update Monica <2018-08-02
+
+## Scheduled
+* [>] Watch Webinar about dockerizing Windows Server 2003 apps see Safari reading list >2018-08-06
+* [>] Take Spartans class >2018-08-06
+* [>] Storage as a Service [[Work Research]] >2018-08-06
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-08-06
+
+## Done
+* [x] Review DXC workplace
+* [x] Pipeline review 

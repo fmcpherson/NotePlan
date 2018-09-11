@@ -1,0 +1,11 @@
+
+## Cancelled
+* [-] Research DXC application security testing <2018-07-26
+* [-] Research Enterprise App Testing: ServiceNow <2018-07-26
+
+## Done
+* [x] Research the standard, Microsoft recommended implementation designs to see whether they involve external LB like F5 [[Internet Web Site Remidiation]]
+* [x] Obtain the names of the people supporting or familiar with the SharePoint hosting of the web site [[Internet Web Site Remidiation]]
+
+## Scheduled
+* [>] Watch Webinar about dockerizing Windows Server 2003 apps see Safari reading list >2018-07-30

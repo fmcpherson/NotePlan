@@ -1,0 +1,9 @@
+
+## Done
+* [x] Write summary of Portia Portal IdM options
+* [x] Review summary with Mark
+* [x] Send summary to Wendy
+* [x] Take advanced authentication broker training
+
+## Scheduled
+* [>] Review Peter’s feedback on DLP requirements >2018-08-24

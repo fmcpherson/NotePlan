@@ -1,0 +1,5 @@
+# Bob Rodger (CISO)
+#tasks #people
+* [x] Determine whether gtroot users can be accessible to SM9
+* Reply to Kate Davies on whether gtroot users can be set up in SM9 or what alternatives exist
+* [[Internet Web Site Remidiation]]

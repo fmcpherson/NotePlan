@@ -1,0 +1,21 @@
+
+
+## Done
+* [x] Research usb redirection on thin clients / ThinPro 
+* [x] Look for new charger for Apple Pencil 
+* [x] Follow up on request for load balancer information for fcgateway, postilionportal, and mccsoaapps urls <2018-06-13 *Got lb info. Firewall rule request in process.*
+* [x] Update PC
+* [x] Review Andrew’s VDI question and prep for review meeting 
+* [x] Yearly review
+* [x] Follow up with Greg about authentication broker pricing <2018-06-13
+* [x] Follow up on email to Jordan and Rahim on re: DLP Enforce pricing <2018-06-13 *Met with Symantec who will send fresh quotes.*
+* [x] Facilitate presentation by Ivanti about AppSense
+
+## Scheduled
+* [>] Research F5 Reverse Proxy capability for SSO >2018-06-15
+* [>] Install slack on Pixel 2 >2018-06-15
+* [>] Work on quarter innovation report  >2018-06-15
+* [>] Begin blog post about Noteplan >2018-06-15
+* [>] Oversee [[SWIFT Sanctions Screening]] *Email w. Andrew et.all* >2018-06-15
+* [>] [[BNTB DLP]] >2018-06-15
+* [>] [[Action Items from Guernsey Workshop June 4-6, 2018]] >2018-06-15

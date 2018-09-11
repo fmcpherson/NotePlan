@@ -1,0 +1,11 @@
+
+## Done
+* [x] Update dashboard <2018-07-24
+* [x] Prep tech forum documentation of Turbonomic presentation 
+* [x] Host Turbonomic presentation with bank
+* [x] Meeting with Oracle, F5, and us to finalize high level design [[Portia xPortal]]
+* [x] Prep for meeting with Wendy
+
+## Scheduled
+* [>] Research Enterprise App Testing: ServiceNow >2018-07-26
+* [>] Research DXC application security testing >2018-07-26

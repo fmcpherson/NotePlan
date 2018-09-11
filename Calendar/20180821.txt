@@ -1,0 +1,15 @@
+
+
+## Done
+* [x] Auto broker training from solution guide and what we sell
+* [x] Set up call with Security to discuss ADFS option for Portal authentication [[Portia xPortal]]
+* [x] Discuss service now for Butterfield 
+
+## Scheduled
+* [>] Complete DXC personal security awareness training [[Training]] >2018-08-22
+* [>] Review Proxy Rreplacement VM requirements summary and approve >2018-08-22
+* [>] Take Spartans class >2018-08-22
+* [>] Follow up with Roger about OBDX and Actimize integration >2018-08-22
+* [>] Complete lliumio test drive by August 20 [[Work Research]] >2018-08-24
+* [>] Review Peter’s feedback on DLP requirements >2018-08-23
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-08-24

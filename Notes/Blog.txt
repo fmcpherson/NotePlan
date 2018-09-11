@@ -1,0 +1,5 @@
+# Blog
+* [>] Edit post about NotePlan >2018-07-06
+* [x] Edit post about managing personal projects with Noteplan >2018-07-05
+* Edit Noteplan article
+#project

@@ -1,0 +1,8 @@
+Google IO 2018
+Google assistant pretty please. Polite interaction. 
+Use assistant to order a Starbucks. Other delivery items coming soon. Improvements launching for assistant in phone this summer. 
+Google duplex enables assistant to interact with a human, like make a phone call to make a reservation. 
+Android P: intelligence, simplicity and digital wellbeing. 
+Adaptive battery uses machine learning to improve battery life. 30% reduction in wake locks. Adaptive brightness applies ML to determining what to set the screen brightness to. 
+Lose It is using ML kit to read nutrition info for food in pictures. 
+Single home button, gestures for navigation like swipe up to get to recent apps. 

@@ -1,0 +1,16 @@
+# Writing Ideas
+2. Create your own stream of info using Slack and IFTTT 
+2. [Experience with Fossil Explorist smart watch](drafts5://open?uuid=9534665A-02E8-477A-B34F-C7106FE83A8D)
+#ideas #tasks
+
+## Cancelled
+3. [-] Reaction to Google IO
+
+## Done
+4. [x] [Experience with NotePlan](drafts5://open?uuid=A3FA1A57-A3C3-48A4-A286-01F9D59E029D)
+1. [x] Create a writing ideas note
+5. [x] Experience with Pad & Quill case
+6. [x] [Managing projects with NotePlan](drafts5://open?uuid=AF1661B7-A74E-426A-8EEE-B7B87B0FADB3) >2018-07-01
+
+## Scheduled
+7. [>] [Thy kingdom come, my kingdom go](drafts5://open?uuid=24D2AC00-C603-4544-B0D5-9FF3B04B3759) >2018-07-01

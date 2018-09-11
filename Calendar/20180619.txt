@@ -1,0 +1,13 @@
+
+## Done
+* [x] Lead review of SCC Citrix build with the bank
+* [x] Oversee implementation, testing, and troubleshooting of SWIFT Sanctions Screening Token Access [[SWIFT Sanctions Screening]]
+
+## Scheduled
+* [>] Research F5 Reverse Proxy capability for SSO >2018-06-20
+* [>] Work on quarter innovation report >2018-06-20
+* [>] Take Spartans class >2018-06-20
+* [>] Edit post about NotePlan [[Blog]] >2018-06-20
+* [>] Upgrade Monica to version 2.3.0 >2018-06-20
+* [>] Edit DLP work order [[BNTB DLP]] >2018-06-20
+* [>] Workday review approval >2018-06-22

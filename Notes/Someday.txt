@@ -1,0 +1,20 @@
+# Someday
+#tasks 
+* Go through my closet
+* Build Google vision kit
+* Research DXC application security testing
+* Research Enterprise App Testing: ServiceNow
+* Build Raspberry Pi NES Emulator
+* [Minimalist Feed Reader - Miniflux](https://miniflux.app/)
+* [Docker app guides](https://blog.docker.com/2018/07/introducing-docker-application-guides/)
+* Watch Webinar about dockerizing Windows Server 2003 apps see Safari reading list
+* [jlesage/handbrake - Docker Hub](https://hub.docker.com/r/jlesage/handbrake/)
+* Test Micro.blog Mac OS app
+* Test Evergreen Mac OS app
+
+## Done
+* [x] Upgrade Mint box >2018-07-04
+* [x] Test mobile version of Monica 
+
+## Scheduled
+* [>] Contact Jim Miller about transformation to cloud.  >2018-07-09

@@ -1,0 +1,7 @@
+* [>] Take Spartans class >2018-09-07
+* [>] Take AB advanced training >2018-09-05
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-09-07
+* [x] Get info about actimize & authentify from Milind [[Portia xPortal]] <2018-08-29
+* [x] Create timeline for production CMP data transfer
+* [x] Send timeline to bank
+* [>] Create proxy and DLP road map >2018-09-05

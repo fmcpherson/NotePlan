@@ -1,0 +1,19 @@
+
+## Done
+* [x] Upload innovation report to SharePoint 
+* [x] Run virus scan on pc 
+* [x] Follow up on pricing for DLP Enforce [[BNTB DLP]] <2018-06-22
+* [x] Work on quarter innovation report <2018-06-22
+* [x] Create usb to reimagine pc
+* [x] Run docker zapper 
+* [x] Read Security Monitoring BPA document <2018-06-22 Reviwed and sent feedback
+* [x] Download docker zapper app to remove c://ProgramData/docker 
+* [x] Review email follow up folder
+* [x] Review [[Someday]] list
+
+## Scheduled
+* [>] Research F5 APM for use with Portia xPortal [[Portia xPortal]] >2018-06-26
+* [>] Edit DLP work order [[BNTB DLP]] >2018-06-26
+* [>] Create goals for the year >2018-06-26
+* [>] Oversee implementation, testing, and troubleshooting of SWIFT Sanctions Screening Token Access [[SWIFT Sanctions Screening]] >2018-06-26
+* [>] Take Spartans class >2018-06-26

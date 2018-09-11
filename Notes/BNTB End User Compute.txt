@@ -1,0 +1,2 @@
+# BNTB End User Compute
+* Research Microsoft Deployment Tool (MDT) to know how it works

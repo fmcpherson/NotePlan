@@ -1,0 +1,4 @@
+# CMP Log Shipping 
+#project
+* Service account ids need to be set up 
+* [>] Ask whether change ticket is needed for service account changes >2018-08-02

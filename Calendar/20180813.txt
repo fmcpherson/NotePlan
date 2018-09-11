@@ -1,0 +1,12 @@
+
+## Done
+* [x] Send email to Rakesh requesting NetSRM for external web site vulnerability assistance [[Internet Web Site Remidiation]]
+* [x] Send email to Sachin asking about F5 local user database option [[Portia xPortal]]
+* [x] Review email follow up folder 
+* [x] Review [[Someday]] list 
+
+## Scheduled
+* [>] Review Peter’s feedback on DLP requirements  >2018-08-14
+* [>] Review Proxy Rreplacement VM requirements summary and approve >2018-08-14
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-08-14
+* [>] Take Spartans class >2018-08-14

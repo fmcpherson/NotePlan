@@ -1,0 +1,16 @@
+
+## Done
+* [x] Discussed with the bank CMP database replication between Bermuda and Canada with the bank
+* [x] Discussed with the bank CyberArk pilot in Canada, suggested user scope are DBAs or Exchange support
+* [x] Discussed with DXC team the option of using AD & ADFS for the authentication of xPortal, single sign-on. Looks like approximately 40 hours of work, need to establish reliant trust with xPortal. Roger to request doco
+* [x] Discussed with DXC team the option of using F5 to secure SSO between OBDX and xPortal. Learned that the F5s in the DMZ have the APM module, fully licensed. Need to determine how to use APM. Kevin created diagrams.
+* [x] Oversee implementation, testing, and troubleshooting of SWIFT Sanctions Screening Token Access [[SWIFT Sanctions Screening]] <2018-06-21
+* [x] [[Action Items from Guernsey Workshop June 4-6, 2018]] >2018-06-18
+* [x] Review [[Writing Ideas]]
+
+## Scheduled
+* [>] Follow up on pricing for DLP Enforce [[BNTB DLP]] >2018-06-25
+* [>] Edit DLP work order [[BNTB DLP]] >2018-06-25
+* [>] Work on quarter innovation report >2018-06-25
+* [>] Read Security Monitoring BPA document >2018-06-25
+* [>] Workday review approval >2018-06-29

@@ -1,0 +1,15 @@
+
+
+## Done
+* [x] Contact Tom Hetterscheidt regarding Virtual Clarity (See path to hybrid email. Sent email to Steve Odom and Larry Wong asking about availability to meet) <2018-06-28
+* [x] Update revenue and TCV trackers
+* [x] Workday review approval <2018-06-22
+* [x] Set up storage frame configuration review with Wendy (Wendy sent email to Mark and Pintu asking for the information, so Pintu may be running this fire drill.)
+* [x] Review [[Writing Ideas]]
+
+## Scheduled
+* [>] Edit DLP work order [[BNTB DLP]] >2018-07-02
+* [>] Work on xPortal authentication sequence diagram [[Portia xPortal]] >2018-07-02
+* [>] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]] >2018-07-02
+* [>] Take Spartans class >2018-07-02
+* [>] Create goals for the year >2018-07-02

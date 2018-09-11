@@ -1,0 +1,11 @@
+* [>] Research authentication broker solution in WWS
+* [>] [[BNTB DLP]]
+	* [x] Update Work Order documentation for Enforce  DB sizing; need BOM
+* [x] Complete diagram for the dev Citrix environment 
+* [>] Oversee [[SWIFT Sanctions Screening]]
+* [>] Record experience with NotePlan [[First thoughts about NotePlan]]
+* [>] Edit article about Fossil smart watch
+* [>] Memory management Citrix and VMWare 
+
+* [>] Take Spartans class
+* [x] Review [[Writing Ideas]]

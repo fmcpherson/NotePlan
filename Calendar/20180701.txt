@@ -1,0 +1,11 @@
+
+
+## Cancelled
+6. [-] [Managing projects with NotePlan](drafts5://open?uuid=AF1661B7-A74E-426A-8EEE-B7B87B0FADB3) [[Writing Ideas]]
+7. [-] [Thy kingdom come, my kingdom go](drafts5://open?uuid=24D2AC00-C603-4544-B0D5-9FF3B04B3759) [[Writing Ideas]]
+* [-] Upgrade Mint box <2018-06-30 
+
+## Done
+* [x] [Ulnar Nerve Exercises](https://www.livestrong.com/article/433621-rehabilitation-of-an-ulnar-nerve-contusion/)
+* [x] [Setting up a Raspberry Pi as an access point in a standalone network (NAT) - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)
+* [x] Went to church

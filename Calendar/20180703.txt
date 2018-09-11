@@ -1,0 +1,12 @@
+
+## Cancelled
+* [-] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]]
+* [-] Edit DLP work order [[BNTB DLP]]
+
+## Done
+* [x] Read APM documentation and update diagram [[Portia xPortal]]
+* [x] Review Reef external SharePoint in preparation for migration to DXC
+* [x] Confirm status of CMP data migration storage request with Pintu; communicate to bank
+* [x] Inform Countercept team about plans to switch to WSS from on premise Bluecoat appliances
+* [x] Facilitate review of the current state of storage [[Wendy McLeod]]
+1. [x] Follow up on action items that I captured during Guernsey workshop [[Action Items from Guernsey Workshop June 4-6, 2018]]

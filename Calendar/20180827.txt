@@ -1,0 +1,21 @@
+
+
+## Cancelled
+* [-] Review Proxy Rreplacement VM requirements summary and approve <2018-08-24
+* [-] Follow up with Roger about OBDX and Actimize integration <2018-08-24
+
+## Done
+* [x] Ask Dena to set up meeting with SS&C [[Portia xPortal]]
+* [x] Follow up with Milind re actimize and authentify 
+* [x] Create cmo/FMO for F5 replacement of Apache reverse proxy <2018-08-24
+* [x] Email diagram for review by F5 engineer 
+* [x] Gather information about ODBX model office environment
+* [x] Create spreadsheet of source and destination ip addresses for OBDX model office access from prod VDI 
+* [x] Review email follow up folder 
+* [x] Review [[Someday]] list 
+
+## Scheduled
+* [>] Review Peter’s feedback on DLP requirements >2018-08-28
+* [>] Take Spartans class >2018-08-28
+* [>] Take AB advanced training >2018-08-28
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-08-28

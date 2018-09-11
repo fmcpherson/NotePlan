@@ -1,0 +1,11 @@
+* [x] Bank workshop in Guernsey
+	* [x] Review notes from the workshop
+* [>] [[BNTB DLP]]
+	* [x] Review bom
+* [>] Oversee [[SWIFT Sanctions Screening]]
+* [>] Take Spartans class
+* [>] Memory management Citrix and VMWare 
+* [>] Research authentication broker solution in WWS
+* [>] [[Action Items from Guernsey Workshop June 4-6, 2018]] 
+* [x] Publish Pad & Quill review blog post
+* [x] Submit request for Visio

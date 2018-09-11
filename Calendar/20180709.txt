@@ -1,0 +1,19 @@
+
+## Done
+* [x] Complete DLP web monitoring (sibling WO to Internet Proxy) work order [[BNTB DLP]]
+* [x] Facilitate review of the current state of storage [[Wendy McLeod]]
+	* [x] Schedule meeting with Mark Bosco to catch up
+* [x] Respond to Peter Farr’s email regarding Cyberark build
+* [x] Contact Jim Miller about transformation to cloud. [[Someday]]
+* [x] Follow up on email to Odom and Wong regarding Path To Hybrid <2018-07-02
+* [x] Review email follow up folder
+* [x] Request meeting with Mark Mcduff to discuss Turbonomics opportunity with Butterfield
+* [x] Review Someday list
+* [x] Review Lightsail instances and remove as necessary
+* [x] Followed up with GSLB delegation and resolution
+* [x] Review email that came in while I was on vacation
+* [x] Set up frankm.org with HTTPS
+* [x] Begin creating new profile page
+
+## Scheduled
+* [>] Review Turbonomics information >2018-07-10

@@ -1,0 +1,3 @@
+# From Email
+#tasks
+* Determine how Bank SecOps can open tickets with the Service Desk for Kate Davies

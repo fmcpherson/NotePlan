@@ -1,0 +1,16 @@
+
+
+## Cancelled
+* [-] Edit DLP work order [[BNTB DLP]] <2018-06-25
+
+## Done
+* [x] Research F5 APM for use with Portia xPortal [[Portia xPortal]] <2018-06-25
+* [x] Oversee implementation, testing, and troubleshooting of SWIFT Sanctions Screening Token Access [[SWIFT Sanctions Screening]] <2018-06-25
+* [x] Follow up with Roger/SS&C regarding meeting to discuss ADFS [[Portia xPortal]]
+* [x] Follow up on pricing for DLP Enforce [[BNTB DLP]]
+* [x] Create diagram of data center environment management role
+1. [x] Follow up on action items that I captured during Guernsey workshop [[Action Items from Guernsey Workshop June 4-6, 2018]]
+
+## Scheduled
+* [>] Create goals for the year >2018-06-29
+* [>] Take Spartans class >2018-06-27

@@ -1,0 +1,11 @@
+
+## Done
+* [x] Review DMZ DPS 
+* [x] Call Cancer Car regarding CT scan
+
+## Scheduled
+* [>] Complete lliumio test drive by August 20 [[Work Research]] >2018-08-15
+* [>] Review Proxy Rreplacement VM requirements summary and approve >2018-08-15
+* [>] Review Peter’s feedback on DLP requirements >2018-08-15
+* [>] Take Spartans class >2018-08-15
+* [>] Complete project pipeline capacity spreadsheet for Sudhanshu >2018-08-15

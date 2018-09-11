@@ -1,0 +1,12 @@
+
+
+## Done
+* [x] Ping Roger about meeting with Oracle [[Portia xPortal]] <2018-07-16
+* [x] Create ms teams channels
+* [x] Invite account leaders to CTO MS Teams Channel
+* [x] Watch F5 APM videos [[Portia xPortal]] <2018-07-16
+* [x] Follow up with Alden French about scheduling demo <2018-07-16
+* [x] Complete Turbonomic form
+
+## Scheduled
+* [>] Brainstorm list of existing data types that could be moved to magnetic storage [[Low Cost Storage Proposal]] >2018-07-18

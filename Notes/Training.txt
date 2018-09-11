@@ -1,0 +1,7 @@
+# Training
+#tasks
+* Complete DevOps Dojo training
+* Complete Spartans white belt training
+* AWS training
+* [>] Complete a Digital Foundations training >2018-09-06
+* [>] Complete DXC personal security awareness training  >2018-08-21
