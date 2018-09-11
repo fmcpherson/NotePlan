@@ -1,0 +1,4 @@
+# Test Note git sync
+Hello world
+* save note
+* Share
